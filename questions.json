@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "topic": "Administration in Java",
+    "question": "What official post did Raffles hold in Java from 1811 to 1816?",
+    "options": {
+      "A": "Governor-General of India",
+      "B": "Lieutenant-Governor of Java",
+      "C": "High Commissioner of Malaya"
+    },
+    "correct": "B",
+    "explanation": "Appointed by Lord Minto following the British capture of Java, Raffles governed as Lieutenant-Governor until Dutch restoration in 1816."
+  },
+  {
+    "id": 2,
+    "topic": "Economic Policies",
+    "question": "Which radical taxation policy did Raffles introduce across Java?",
+    "options": {
+      "A": "Land Rent System (Landrente)",
+      "B": "Cultuurstelsel (Forced Crops)",
+      "C": "Preangerstelsel System"
+    },
+    "correct": "A",
+    "explanation": "Raffles instituted the Land Rent System (sistem sewa tanah), considering the colonial government the sole proprietor of all land."
+  },
+  {
+    "id": 3,
+    "topic": "Heritage & Archaeology",
+    "question": "Whom did Raffles dispatch in 1814 to survey and uncover Borobudur?",
+    "options": {
+      "A": "Herman Willem Daendels",
+      "B": "Jan Pieterszoon Coen",
+      "C": "H.C. Cornelius"
+    },
+    "correct": "C",
+    "explanation": "Dutch engineer H.C. Cornelius was tasked with 200 men to cut down trees and clear centuries of ash covering Borobudur."
+  },
+  {
+    "id": 4,
+    "topic": "Historical Scholarship",
+    "question": "What monumental 1817 two-volume history book did Raffles publish?",
+    "options": {
+      "A": "The Malay Annals",
+      "B": "The History of Java",
+      "C": "Flora Malesiana"
+    },
+    "correct": "B",
+    "explanation": "Published in London in 1817, 'The History of Java' recorded the island's culture, geography, language, and historical antiquities."
+  },
+  {
+    "id": 5,
+    "topic": "Botanical Discoveries",
+    "question": "Which naturalist accompanied Raffles when discovering Rafflesia?",
+    "options": {
+      "A": "Sir Joseph Banks",
+      "B": "Dr. Nathaniel Wallich",
+      "C": "Dr. Joseph Arnold"
+    },
+    "correct": "C",
+    "explanation": "Discovered in Bengkulu in 1818, the world's largest individual flower was named Rafflesia arnoldii after Raffles and Dr. Joseph Arnold."
+  },
+  {
+    "id": 6,
+    "topic": "Founding of Singapore",
+    "question": "With which Malay ruler did Raffles sign the 1819 Singapore treaty?",
+    "options": {
+      "A": "Sultan Hussein Shah",
+      "B": "Sultan Mahmud Badaruddin II",
+      "C": "Sultan Hamengkubuwono II"
+    },
+    "correct": "A",
+    "explanation": "On 6 February 1819, Raffles concluded a formal treaty with Sultan Hussein Shah of Johor to establish a British trading post in Singapore."
+  },
+  {
+    "id": 7,
+    "topic": "Scientific Institutions",
+    "question": "Which renowned scientific body did Raffles co-found in London in 1826?",
+    "options": {
+      "A": "Royal Geographical Society",
+      "B": "Zoological Society of London",
+      "C": "Linnean Society of London"
+    },
+    "correct": "B",
+    "explanation": "Raffles served as the founding president of the Zoological Society of London, which established the famous London Zoo."
+  },
+  {
+    "id": 8,
+    "topic": "Territorial Administration",
+    "question": "Into how many administrative residencies did Raffles divide Java?",
+    "options": {
+      "A": "8 residencies",
+      "B": "24 residencies",
+      "C": "16 residencies"
+    },
+    "correct": "C",
+    "explanation": "To centralize governance and reduce feudal influence of local bupati, Raffles divided Java into 16 residencies (karesidenan)."
+  },
+  {
+    "id": 9,
+    "topic": "Trade & Labor Reforms",
+    "question": "What trade reform did Raffles endeavor to establish in Java?",
+    "options": {
+      "A": "Ended forced crop deliveries",
+      "B": "Expanded the spice monopoly",
+      "C": "Banned all peasant market trade"
+    },
+    "correct": "A",
+    "explanation": "Raffles sought to replace the Dutch VOC system of compulsory deliveries (contingenten) with free trade and monetary wages."
+  },
+  {
+    "id": 10,
+    "topic": "Sumatra Tenure",
+    "question": "At which Sumatra stronghold was Raffles stationed from 1818 to 1824?",
+    "options": {
+      "A": "Fort Rotterdam",
+      "B": "Fort de Kock",
+      "C": "Fort Marlborough"
+    },
+    "correct": "C",
+    "explanation": "Raffles served as Lieutenant-Governor of Bencoolen (Bengkulu) headquartered at Fort Marlborough on the west coast of Sumatra."
+  },
+  {
+    "id": 11,
+    "topic": "Maritime Disaster",
+    "question": "Which ship carrying Raffles' vast manuscript collection burned in 1824?",
+    "options": {
+      "A": "The Batavia",
+      "B": "The Fame",
+      "C": "The Endeavour"
+    },
+    "correct": "B",
+    "explanation": "Hours after departing Bencoolen in February 1824, the ship 'Fame' caught fire, destroying thousands of specimens, maps, and drawings."
+  },
+  {
+    "id": 12,
+    "topic": "Personal Life & Memorials",
+    "question": "Where is the memorial monument to Raffles' wife Olivia located?",
+    "options": {
+      "A": "Bogor Botanical Gardens",
+      "B": "Singapore Botanic Gardens",
+      "C": "Cibodas Botanical Garden"
+    },
+    "correct": "A",
+    "explanation": "Following the passing of Olivia Mariamne Devenish in 1814, Raffles erected a classical memorial monument in Kebun Raya Bogor."
+  }
+]
