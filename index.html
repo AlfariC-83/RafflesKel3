@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <title>Raffles Sky Plains - 3D Multiplayer Quiz Platformer</title>
+  <title>Thomas Stamford Raffles</title>
   <style>
     * {
       box-sizing: border-box;
@@ -642,10 +642,9 @@
     <!-- Top HUD -->
     <div class="top-bar">
       <div class="brand-section">
-        <div class="brand-logo">R</div>
         <div class="brand-text">
-          <h1>Raffles Sky Plains 3D</h1>
-          <p>Historical Exploration Platformer</p>
+          <h1>Thomas Stamford Raffles</h1>
+          <p>Kelompok 3</p>
         </div>
       </div>
 
@@ -684,7 +683,7 @@
     <div class="top-right-widgets">
       <div class="leaderboard-card">
         <div class="leaderboard-title">
-          <span>Explorers in Sky</span>
+          <span>Leaderboard</span>
           <span id="player-count">1 Online</span>
         </div>
         <ul class="leaderboard-list" id="leaderboard-list">
@@ -717,11 +716,11 @@
   <!-- Multiplayer Setup Modal -->
   <div class="modal-overlay" id="multiplayer-modal">
     <div class="modal-card">
-      <h2>🌐 Sky Multiplayer Room</h2>
-      <p>Invite friends or classmates to explore the floating islands and solve the Raffles quiz together in real time!</p>
+      <h2>🌐 Connections</h2>
+      <p>Invite friends or classmates to explore the floating islands and solve the quiz together in real time!</p>
       
       <div class="form-group">
-        <label id="label-player-name">Your Explorer Name</label>
+        <label id="label-player-name">Name</label>
         <div style="display: flex; gap: 6px;">
           <input type="text" id="input-player-name" maxlength="15" value="Explorer" style="flex: 1;" placeholder="Enter explorer name" />
           <button class="btn btn-primary" id="btn-submit-name" type="button" style="padding: 6px 12px; font-size: 8.5px; white-space: nowrap;">Enter</button>
@@ -730,7 +729,7 @@
       </div>
 
       <div class="form-group">
-        <label>Choose Suit Color</label>
+        <label>Pick a color</label>
         <div class="color-picker" id="color-picker">
           <div class="color-option selected" data-color="#2563eb" style="background: #2563eb;"></div>
           <div class="color-option" data-color="#dc2626" style="background: #dc2626;"></div>
@@ -759,7 +758,7 @@
   <div class="modal-overlay" id="victory-modal">
     <div class="modal-card" style="text-align: center;">
       <h2 style="color: #fbbf24; font-size: 26px;">🎉 Quest Completed!</h2>
-      <p>You have conquered all 12 stages of the Raffles Sky Plains and arrived at the <em>Rafflesia Sanctuary</em>!</p>
+      <p>You have conquered all the stages and arrived at the <em>Rafflesia Sanctuary</em>!</p>
       
       <div style="background: #0f172a; border-radius: 12px; padding: 16px; margin-bottom: 18px;">
         <div style="font-size: 13px; color: #94a3b8; margin-bottom: 4px;">FINAL SCORE</div>
@@ -1726,9 +1725,9 @@
 
       // Welcome Banner Sign
       const bannerTex = createTextBillboard(
-        "WELCOME TO SKY PLAINS",
+        "WELCOME",
         "Sir Thomas Stamford Raffles Expedition",
-        "Master the 12 platformer quiz bridges ahead to reach the grand Rafflesia Sanctuary!"
+        "Master the 12 quiz bridges ahead to reach the grand Rafflesia Sanctuary!"
       );
       const bMesh = new THREE.Mesh(new THREE.PlaneGeometry(12, 6), new THREE.MeshBasicMaterial({ map: bannerTex, side: THREE.DoubleSide }));
       bMesh.position.set(0, 10, 0);
@@ -1781,8 +1780,8 @@
       // Milestone guide billboard
       const milestoneTex = createTextBillboard(
         "EXPEDITION WAYPOINT",
-        "Path to Stage 1: Origins & History of Java",
-        "Ahead lies Question 1 • Cross the illuminated stone bridge to begin!"
+        "- Guide -",
+        "Each island has 3 path to get to next one, choose the correct path from the question for each island."
       );
       const mSign = new THREE.Mesh(
         new THREE.PlaneGeometry(8, 4),
