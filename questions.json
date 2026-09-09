@@ -1,146 +1,146 @@
 [
   {
     "id": 1,
-    "topic": "Administration in Java",
-    "question": "What official post did Raffles hold in Java from 1811 to 1816?",
+    "topic": "Administrasi di Jawa",
+    "question": "Jabatan resmi apa yang dipegang Raffles di Jawa dari tahun 1811 hingga 1816?",
     "options": {
-      "A": "Governor-General of India",
-      "B": "Lieutenant-Governor of Java",
-      "C": "High Commissioner of Malaya"
+      "A": "Gubernur Jenderal India",
+      "B": "Letnan Gubernur Jawa",
+      "C": "Komisaris Tinggi Malaya"
     },
     "correct": "B",
-    "explanation": "Appointed by Lord Minto following the British capture of Java, Raffles governed as Lieutenant-Governor until Dutch restoration in 1816."
+    "explanation": "Raffles dikenal sebagai Letnan Gubernur Jawa selama pendudukan Inggris dari tahun 1811 hingga 1816."
   },
   {
     "id": 2,
-    "topic": "Economic Policies",
-    "question": "Which radical taxation policy did Raffles introduce across Java?",
+    "topic": "Kebijakan Ekonomi",
+    "question": "Sistem perpajakan tanah apa yang diperkenalkan Raffles di Jawa?",
     "options": {
-      "A": "Land Rent System (Landrente)",
-      "B": "Cultuurstelsel (Forced Crops)",
-      "C": "Preangerstelsel System"
+      "A": "Sistem Sewa Tanah (Landrent)",
+      "B": "Cultuurstelsel (Tanam Paksa)",
+      "C": "Sistem Preangerstelsel"
     },
     "correct": "A",
-    "explanation": "Raffles instituted the Land Rent System (sistem sewa tanah), considering the colonial government the sole proprietor of all land."
+    "explanation": "Raffles memperkenalkan sistem sewa tanah (landrent), yaitu pemerintah menentukan besarnya sewa dengan mempertimbangkan kondisi tanah."
   },
   {
     "id": 3,
-    "topic": "Heritage & Archaeology",
-    "question": "Whom did Raffles dispatch in 1814 to survey and uncover Borobudur?",
+    "topic": "Penemuan Kembali Borobudur & Prambanan",
+    "question": "Siapa yang diutus Raffles pada tahun 1814 untuk melakukan pembersihan awal Borobudur dan Prambanan?",
     "options": {
       "A": "Herman Willem Daendels",
       "B": "Jan Pieterszoon Coen",
       "C": "H.C. Cornelius"
     },
     "correct": "C",
-    "explanation": "Dutch engineer H.C. Cornelius was tasked with 200 men to cut down trees and clear centuries of ash covering Borobudur."
+    "explanation": "Pada tahun 1814, Raffles mengutus insinyur H.C. Cornelius untuk melakukan pembersihan awal Borobudur dan Prambanan."
   },
   {
     "id": 4,
-    "topic": "Historical Scholarship",
-    "question": "What monumental 1817 two-volume history book did Raffles publish?",
+    "topic": "Kajian Sejarah",
+    "question": "Apa nama buku sejarah monumental dua jilid yang diterbitkan Raffles pada tahun 1817?",
     "options": {
       "A": "The Malay Annals",
       "B": "The History of Java",
       "C": "Flora Malesiana"
     },
     "correct": "B",
-    "explanation": "Published in London in 1817, 'The History of Java' recorded the island's culture, geography, language, and historical antiquities."
+    "explanation": "Pada tahun 1817, Raffles menerbitkan The History of Java, sebuah karya dua jilid yang mendokumentasikan sejarah, bahasa, adat istiadat, peta wilayah, dan kesenian Jawa."
   },
   {
     "id": 5,
-    "topic": "Botanical Discoveries",
-    "question": "Which naturalist accompanied Raffles when discovering Rafflesia?",
+    "topic": "Kebijakan Politik dan Pemerintahan",
+    "question": "Bagaimana perubahan status bupati pribumi pada masa pemerintahan Raffles?",
     "options": {
-      "A": "Sir Joseph Banks",
-      "B": "Dr. Nathaniel Wallich",
-      "C": "Dr. Joseph Arnold"
+      "A": "Menjadi penguasa feodal yang merdeka",
+      "B": "Menjadi pegawai pemerintah",
+      "C": "Digantikan oleh pejabat Belanda"
     },
-    "correct": "C",
-    "explanation": "Discovered in Bengkulu in 1818, the world's largest individual flower was named Rafflesia arnoldii after Raffles and Dr. Joseph Arnold."
+    "correct": "B",
+    "explanation": "Raffles mengubah status bupati pribumi dari penguasa feodal independen menjadi pegawai pemerintah yang menerima gaji tetap."
   },
   {
     "id": 6,
-    "topic": "Founding of Singapore",
-    "question": "With which Malay ruler did Raffles sign the 1819 Singapore treaty?",
+    "topic": "Penghapusan Perbudakan",
+    "question": "Apa kebijakan Raffles terkait perbudakan di Jawa?",
     "options": {
-      "A": "Sultan Hussein Shah",
-      "B": "Sultan Mahmud Badaruddin II",
-      "C": "Sultan Hamengkubuwono II"
+      "A": "Memperluas perdagangan budak",
+      "B": "Melarang seluruh bentuk tenaga kerja",
+      "C": "Melarang perdagangan budak baru dan membatasi kepemilikan budak oleh orang Eropa"
     },
-    "correct": "A",
-    "explanation": "On 6 February 1819, Raffles concluded a formal treaty with Sultan Hussein Shah of Johor to establish a British trading post in Singapore."
+    "correct": "C",
+    "explanation": "Raffles melarang perdagangan budak baru di wilayah Jawa serta membatasi kepemilikan budak oleh warga Eropa."
   },
   {
     "id": 7,
-    "topic": "Scientific Institutions",
-    "question": "Which renowned scientific body did Raffles co-found in London in 1826?",
+    "topic": "Sistem Sewa Tanah",
+    "question": "Bagaimana pajak sewa tanah dipungut pada masa Raffles?",
     "options": {
-      "A": "Royal Geographical Society",
-      "B": "Zoological Society of London",
-      "C": "Linnean Society of London"
+      "A": "Per kepala atau per orang",
+      "B": "Secara kolektif per desa",
+      "C": "Hanya melalui hasil pertanian"
     },
-    "correct": "B",
-    "explanation": "Raffles served as the founding president of the Zoological Society of London, which established the famous London Zoo."
+    "correct": "A",
+    "explanation": "Pada masa Raffles, pajak sewa tanah menjadi kewajiban setiap orang. Sebelumnya pada masa VOC, pajak merupakan kewajiban kolektif setiap desa."
   },
   {
     "id": 8,
-    "topic": "Territorial Administration",
-    "question": "Into how many administrative residencies did Raffles divide Java?",
+    "topic": "Administrasi Wilayah",
+    "question": "Menjadi berapa karesidenan Raffles membagi Pulau Jawa?",
     "options": {
-      "A": "8 residencies",
-      "B": "24 residencies",
-      "C": "16 residencies"
+      "A": "8 karesidenan",
+      "B": "24 karesidenan",
+      "C": "16 karesidenan"
     },
     "correct": "C",
-    "explanation": "To centralize governance and reduce feudal influence of local bupati, Raffles divided Java into 16 residencies (karesidenan)."
+    "explanation": "Raffles membagi Pulau Jawa menjadi 16 karesidenan. Setiap wilayah dipimpin oleh seorang Residen."
   },
   {
     "id": 9,
-    "topic": "Trade & Labor Reforms",
-    "question": "What trade reform did Raffles endeavor to establish in Java?",
+    "topic": "Kebijakan Ekonomi",
+    "question": "Sistem penyerahan wajib apa yang dihapus oleh Raffles?",
     "options": {
-      "A": "Ended forced crop deliveries",
-      "B": "Expanded the spice monopoly",
-      "C": "Banned all peasant market trade"
+      "A": "Verplichte leverantie",
+      "B": "Landrent",
+      "C": "Pertanian subsisten"
     },
     "correct": "A",
-    "explanation": "Raffles sought to replace the Dutch VOC system of compulsory deliveries (contingenten) with free trade and monetary wages."
+    "explanation": "Raffles menghapus sistem penyerahan wajib (verplichte leverantie) yang telah diterapkan sejak zaman VOC."
   },
   {
     "id": 10,
-    "topic": "Sumatra Tenure",
-    "question": "At which Sumatra stronghold was Raffles stationed from 1818 to 1824?",
+    "topic": "Penyebab Kegagalan Sistem Sewa Tanah",
+    "question": "Mengapa rakyat mengalami kesulitan membayar pajak sewa tanah pada masa Raffles?",
     "options": {
-      "A": "Fort Rotterdam",
-      "B": "Fort de Kock",
-      "C": "Fort Marlborough"
+      "A": "Rakyat sudah terbiasa membayar pajak dengan uang",
+      "B": "Perekonomian pedesaan masih banyak menggunakan sistem subsisten dan barter",
+      "C": "Pasar lokal sudah berkembang sangat pesat"
     },
-    "correct": "C",
-    "explanation": "Raffles served as Lieutenant-Governor of Bencoolen (Bengkulu) headquartered at Fort Marlborough on the west coast of Sumatra."
+    "correct": "B",
+    "explanation": "Perekonomian pedesaan Jawa saat itu masih bersifat subsisten dan banyak menggunakan barter, sehingga rakyat mengalami kesulitan membayar pajak dalam bentuk uang tunai."
   },
   {
     "id": 11,
-    "topic": "Maritime Disaster",
-    "question": "Which ship carrying Raffles' vast manuscript collection burned in 1824?",
+    "topic": "Penyebab Kegagalan Sistem Sewa Tanah",
+    "question": "Apa salah satu alasan sistem sewa tanah sulit diterapkan di Jawa?",
     "options": {
-      "A": "The Batavia",
-      "B": "The Fame",
-      "C": "The Endeavour"
+      "A": "Tersedianya peta kepemilikan tanah yang akurat",
+      "B": "Pemerintah sudah memiliki data pertanahan yang lengkap",
+      "C": "Tidak adanya peta dan data kepemilikan tanah yang akurat"
     },
-    "correct": "B",
-    "explanation": "Hours after departing Bencoolen in February 1824, the ship 'Fame' caught fire, destroying thousands of specimens, maps, and drawings."
+    "correct": "C",
+    "explanation": "Pemerintah Inggris tidak memiliki peta maupun data kepemilikan tanah yang akurat, sehingga sulit menentukan luas lahan, batas wilayah, tingkat kesuburan, dan pihak yang wajib membayar pajak."
   },
   {
     "id": 12,
-    "topic": "Personal Life & Memorials",
-    "question": "Where is the memorial monument to Raffles' wife Olivia located?",
+    "topic": "Sistem Pemerintahan dan Peradilan",
+    "question": "Sistem pemerintahan dan peradilan seperti apa yang dibentuk Raffles di Jawa?",
     "options": {
-      "A": "Bogor Botanical Gardens",
-      "B": "Singapore Botanic Gardens",
-      "C": "Cibodas Botanical Garden"
+      "A": "Sistem yang berdasarkan sepenuhnya pada adat Jawa",
+      "B": "Sistem yang mengacu pada sistem yang dilaksanakan di Inggris",
+      "C": "Sistem yang sepenuhnya mengikuti sistem VOC"
     },
-    "correct": "A",
-    "explanation": "Following the passing of Olivia Mariamne Devenish in 1814, Raffles erected a classical memorial monument in Kebun Raya Bogor."
+    "correct": "B",
+    "explanation": "Raffles membentuk sistem pemerintahan dan sistem peradilan yang mengacu pada sistem yang dilaksanakan di Inggris."
   }
 ]
